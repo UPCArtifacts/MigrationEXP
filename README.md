@@ -25,8 +25,6 @@ Therefore, we consider this result is the first step into long-term research tow
 
 1. [AndroidAnalyzer](#tool)
 2. [Analyzed datasets](#dataset)
-3. [Feature extraction result](#extraction)
-
 
 --
 
@@ -41,8 +39,4 @@ Therefore, we consider this result is the first step into long-term research tow
 
 * [Android applications](https://zenodo.org/record/4463389) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4463389.svg)](https://doi.org/10.5281/zenodo.4463389)
 * [Open-Source Projects](https://zenodo.org/record/4501622) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4501622.svg)](https://doi.org/10.5281/zenodo.4501622)
-
-### <a name="extraction">Feature extraction result</a>
-
-* [Result](extraction/)
 
